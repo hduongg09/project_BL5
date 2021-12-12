@@ -12,11 +12,11 @@ import java.sql.Time;
  *
  * @author Have A Nice Day
  */
-public class Attandance {
+public class Attendance {
     private int id;
     private Student student;
     private Date atd;
-    private Time ttd;
+    private Time att;
     private boolean takeat;
 
     public int getId() {
@@ -43,12 +43,12 @@ public class Attandance {
         this.atd = atd;
     }
 
-    public Time getTtd() {
-        return ttd;
+    public Time getAtt() {
+        return att;
     }
 
-    public void setTtd(Time ttd) {
-        this.ttd = ttd;
+    public void setAtt(Time att) {
+        this.att = att;
     }
 
     public boolean isTakeat() {

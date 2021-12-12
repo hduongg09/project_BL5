@@ -3,8 +3,18 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/Users/Have%20A%20Nice%20Day/Documents/NetBeansProjects/Project_BL5/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Have%20A%20Nice%20Day/Documents/NetBeansProjects/Project_BL5/src/java/controller/AddAttendanceController.java</file>
+            <file>file:/C:/Users/Have%20A%20Nice%20Day/Documents/NetBeansProjects/Project_BL5/src/java/dal/AttendanceDBContext.java</file>
+            <file>file:/C:/Users/Have%20A%20Nice%20Day/Documents/NetBeansProjects/Project_BL5/src/java/model/Classs.java</file>
+            <file>file:/C:/Users/Have%20A%20Nice%20Day/Documents/NetBeansProjects/Project_BL5/src/java/dal/DBContext.java</file>
             <file>file:/C:/Users/Have%20A%20Nice%20Day/Documents/NetBeansProjects/Project_BL5/web/index.html</file>
+            <file>file:/C:/Users/Have%20A%20Nice%20Day/Documents/NetBeansProjects/Project_BL5/src/java/controller/SearchController.java</file>
             <file>file:/C:/Users/Have%20A%20Nice%20Day/Documents/NetBeansProjects/Project_BL5/web/attendance.jsp</file>
+            <file>file:/C:/Users/Have%20A%20Nice%20Day/Documents/NetBeansProjects/Project_BL5/src/java/model/Student.java</file>
+            <file>file:/C:/Users/Have%20A%20Nice%20Day/Documents/NetBeansProjects/Project_BL5/src/java/dal/ClasssDBContext.java</file>
+            <file>file:/C:/Users/Have%20A%20Nice%20Day/Documents/NetBeansProjects/Project_BL5/src/java/model/Attendance.java</file>
+            <file>file:/C:/Users/Have%20A%20Nice%20Day/Documents/NetBeansProjects/Project_BL5/src/java/dal/StudentDBContext.java</file>
         </group>
     </open-files>
 </project-private>
